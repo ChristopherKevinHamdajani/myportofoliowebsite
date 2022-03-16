@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-    <h1>This will be the home page/ landing/page</h1>
+  <div>
+    <h1>This will be the Contact me page</h1>
   </div>
 </template>
 
